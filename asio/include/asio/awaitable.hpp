@@ -28,6 +28,7 @@
 #include "asio/any_io_executor.hpp"
 
 #include "asio/detail/push_options.hpp"
+#include <utility>
 
 namespace asio {
 namespace detail {
